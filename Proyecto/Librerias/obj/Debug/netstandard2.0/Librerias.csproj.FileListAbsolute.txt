@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\U\Cuarto Semestre\IPC2\ProyectoIPC2\Librerias\obj\Debug\netstandard2.0\Librerias.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\U\Cuarto Semestre\IPC2\ProyectoIPC2\Librerias\obj\Debug\netstandard2.0\Librerias.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\U\Cuarto Semestre\IPC2\ProyectoIPC2\Librerias\obj\Debug\netstandard2.0\Librerias.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\U\Cuarto Semestre\IPC2\ProyectoIPC2\Librerias\obj\Debug\netstandard2.0\Librerias.AssemblyInfo.cs
